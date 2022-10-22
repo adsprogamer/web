@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://pdp.edu.vn/wp-content/uploads/2021/01/hinh-nen-4k-tuyet-dep-cho-may-tinh.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+* {
+  font-family: Bahnschrift SemiBold;
+  color: rgb(0, 217, 255);
+}
+.thongtin {
+  color :yellow;
+}
+.link {
+  color: #FFCC00
+}
+.link:hover {
+  color: #af8c00;
+}
+.nutbam {
+  color: rgb(255, 0, 0);
+  background-color:rgb(0, 217, 255);
+  padding:15px 32px;
+  margin: 2px;
+  text-align:center;
+  border-radius:25px;
+  display: inline-block;
+  text-decoration: none;
+}
+.nutbam:hover {
+  color: rgb(168, 0, 0);
+  background-color:rgb(0, 150, 177);
+}
